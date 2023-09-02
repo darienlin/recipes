@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+}
+.content{
+    display:flex;
+    align-content:space-between;
+}
+
+.main-page{
+    display:flex;
+    flex-direction:column;
+    max-width:800px;
+    padding:0 1rem;
+    margin:0 auto;
+}
+
+img{
+    max-height:250px;
+    width:auto;
+}
+
+a{
+    text-decoration:none;
+    font-size:15px;
+    margin:auto;
+    
+}
+
+button{
+    padding:0 100px;
+}
